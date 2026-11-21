@@ -1,0 +1,6 @@
+{
+  "name": "1xbet",
+  "description": "منصة محاكاة تعليمية للعبة Crash وإدارة الرصيد التجريبي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
