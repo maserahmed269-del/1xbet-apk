@@ -1,9 +1,13 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.app',
+ const config: CapacitorConfig = {
+   
   appName: '1XBET',
-  webDir: 'dist'
+  webDir: 'dist',
+  android: {
+    adjustMarginsForEdgeToEdge: 'force',
+  },
 };
 
 export default config;
